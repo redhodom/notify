@@ -1,0 +1,405 @@
+<div class="container">
+    <img src="../media/img/suji's.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Newyork Nagram</h3>
+        <p>AR Rahman</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+     <div class="container1">
+    <img src="../media/img/yuvan.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container2">
+    <img src="../media/img/Anirudh Ravichandran.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Kanave Kanave</h3>
+        <p>Anirudh Ravichandran</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container3">
+    <img src="../media/img/andrea-l.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Oo Solriya Oo Oo Solriya</h3>
+        <p>Andrea Jeremiah</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container4">
+    <img src="../media/img/hjayaraj.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Yamma Yamma</h3>
+        <p>Harris Jayaraj</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container5">
+    <img src="../media/img/Devi Sri Prasad hd image.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Pushpa Pushpa</h3>
+        <p> Devi Sri Prasad</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container6">
+    <img src="../media/img/str.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Red card</h3>
+        <p>Atman STR</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+<div class="container7">
+    <img src="../media/img/hiphop.jpg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Vaa di Pulla Vaa di</h3>
+        <p>Hip HOP Tamizha</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+      </div>  
+       <div class="container8">
+    <img src="../media/img/Dhee_Madhavan_Palanisamy_2.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Enjoy Enjaami</h3>
+        <p>Dhee</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+        <div class="container9">
+    <img src="../media/img/santhosh narayanan 💎.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Pottala Mittai</h3>
+        <p>Santhosh Narayanan</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+       <div class="container10">
+    <img src="../media/img/arivuee.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Vathi Raidu</h3>
+        <p>Arivu</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+       <div class="container11">
+    <img src="../media/img/jonita.jpeg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Arabic Kuthu</h3>
+        <p>Jonita Ganthi</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container13">
+    <img src="../media/img/48034560851_e7eac62301_z.jpg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Aathichu</h3>
+        <p>Vijay Antony</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+      <div class="container14">
+    <img src="../media/img/gv1.jpg" alt="Cover Art" class="cover-image">
+
+    <div class="custom-player">
+      <div class="track-info">
+        <h3>Yathe Hathe</h3>
+        <p>GV Prakash Kumar</p>
+      </div>
+
+      <div class="progress-bar">
+        <div class="progress"></div>
+      </div>
+
+      <div class="controls">
+        <button class="prev">&#9664;</button>
+        <button class="play">&#9658;</button>
+        <button class="next">&#9654;</button>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      css////
+  .container{
+  background: rgba(255, 255, 255, 0.098);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  height: 300px;
+  width: 180px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);
+  text-align: center;
+  margin: 10px 0px 0px 35px;
+  outline: 1px solid #dfdfdf65;
+}
+
+.cover-image:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s;
+  box-shadow: #d400ff 0px 4px 12px 0 rgba(125, 4, 150, 0.671);
+}
+
+.container1, .container2, .container3, .container4, .container5, .container6 {
+  background: rgba(255, 255, 255, 0.098);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  height: 300px;
+  width: 180px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);
+  text-align: center;
+  margin: -292px 0px 0px 200px;
+  outline: 1px solid #dfdfdf65;
+}
+
+.container7{
+  background: rgba(255, 255, 255, 0.098);
+  backdrop-filter: transpa;
+  -webkit-backdrop-filter: blur(12px);
+  height: 300px;
+  width: 180px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);
+  text-align: center;
+  outline: 1px solid #dfdfdf65;
+  margin: 20px 0px 0px 0px;
+}
+
+.container8, .container9, .container10,.container11, .container12, .container13, .container14 {
+  background: rgba(255, 255, 255, 0.098);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  height: 300px;
+  width: 180px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);
+  text-align: center;
+  outline: 1px solid #dfdfdf65;
+  margin: -292px 0px 0px -200px;
+}
+
+.cover-image {
+  height: 180px;
+  width: 150px;
+  border-radius: 15px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.custom-player {
+  color: #fff;
+}
+
+.track-info h3 {
+  font-size: 10px;
+  color: #ff00e6c1;
+}
+
+.track-info p {
+  font-size: 12px;
+  color: #aaa;
+}
+
+.progress-bar {
+  justify-self: center;
+  background: #33333348;
+  height: 8px;
+  max-width: 150px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 15px 0;
+  position: relative;
+}
+
+.progress-bar .progress {
+  width: 100px;
+  height: 100%;
+  background: linear-gradient(90deg, #9e059ebd, #394348a8);
+  border-radius: 10px;
+}
+
+.controls {
+    justify-self: center;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.controls button {
+  background: #bd06b79e;
+  border: none;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  font-size: 10px;
+  color: #000;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(130, 6, 141, 0.5);
+  transition: all 0.2s ease;
+}
+
+.controls button:hover {
+  transform: scale(1.1);
+  background: #a904a3;
+}
